@@ -3,7 +3,12 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Archives"
+  - title: "개발"
+    url: /archives/
+    #TODO
+  - title: "분석"
+    url: /archives/
+  - title: "일상"
     url: /archives/
   - title: "GitHub"
-    url: https://github.com/yous/whiteglass
+    url: https://github.com/fromitive
