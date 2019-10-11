@@ -1,6 +1,6 @@
 {% if include.categories != empty %} •
   {% for category in include.categories %}
-    {{ category }}
+    {{ category.url }}
     {% assign no_comma = forloop.last %}
     {{ site.archives }}
     {% for archive in site.archives %}
